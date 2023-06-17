@@ -1,6 +1,12 @@
 # Cookies
 
-### A Flutter cookies online shopping app build with [Clean Architecture, TDD, MVVM, Cubit, ...]
+### A Flutter cookies online shopping app build with:
+- Clean Architecture
+- TDD (Test Driven Design)
+- MVVM (Model View ViewModel)
+- Cubit state management
+- Animation (Explicit & Implicit)
+- and more ->
 
 <p align="left" width="100%">
   <img src="assets/images/screenshots/Screenshot_1.png" width="300">
