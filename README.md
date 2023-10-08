@@ -1,6 +1,6 @@
 # Cookies
 
-### A Flutter cookies online shopping app build with:
+### A Flutter cookies online shopping app built with:
 - Clean Architecture
 - TDD (Test Driven Design)
 - MVVM (Model View ViewModel)
